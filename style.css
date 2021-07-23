@@ -1,0 +1,30 @@
+/* Selector {
+
+} */
+
+body {
+    background-image: url(tokyo-background.jpg);
+    background-size: cover;
+    
+
+}
+
+h2,p {
+    color: #7A9F35;
+    text-align: center;
+    border: 8px solid rgba(212, 238, 159, .5);
+    cursor: pointer;
+}
+
+p {
+    color: white;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    
+
+}
+
+
